@@ -8,6 +8,6 @@ A fictional pediatric therapy clinic website in Santa Cruz, CA. Portfolio piece 
 - Token-based CSS, scroll-driven animations with IntersectionObserver fallback, reduced-motion honored
 - `_headers` + `_redirects`, sitemap, robots, llms.txt, OG tags
 
-Live: https://tidepool.pages.dev
+Live: https://tidepool-dn7.pages.dev
 
 All content fictional. Demo forms transmit nothing.

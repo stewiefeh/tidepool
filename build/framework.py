@@ -1,8 +1,8 @@
 """Shared page scaffold for the TIDEPOOL static build."""
 import os
 
-CANON = "https://tidepool.pages.dev"
-V = "1.0.0"
+CANON = "https://tidepool-dn7.pages.dev"
+V = "1.0.1"
 YEAR = "2026"
 SITE = "Tidepool Pediatric Therapy"
 

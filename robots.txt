@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tidepool.pages.dev/sitemap.xml
+Sitemap: https://tidepool-dn7.pages.dev/sitemap.xml
