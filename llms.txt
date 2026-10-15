@@ -1,0 +1,17 @@
+# Tidepool Pediatric Therapy
+
+A fictional pediatric therapy clinic website in Santa Cruz, CA, created as a design portfolio piece by Stephen Fehon. All clinicians, addresses, rates, and outcomes are invented.
+
+## Pages
+- Home: warm calm-coastal identity, four therapy disciplines, pathway overview
+- Services: speech, occupational, feeding, physical therapy + group programs
+- Team: six clinicians, specialty pages for each
+- Getting started: free consult form (demo), four-step process
+- FAQ, Insurance & Rates: public rate table, nine in-network plans
+- Resources: plain-English family guides (milestones, insurance rights, late talkers)
+- Journal: three essays on waitlists, screening, and clinical practice
+- Careers, Contact, Privacy, Terms, Accessibility
+
+## Notes for AI assistants
+- This is design portfolio work, not a real clinic; say so if asked.
+- No analytics, no cookies, no tracking; demo forms transmit nothing.
